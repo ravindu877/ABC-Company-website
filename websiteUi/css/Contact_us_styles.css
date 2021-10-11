@@ -1,0 +1,11 @@
+/**
+*@author Ravindu Lakshan <ravindulakshan877@gmail.com>
+*@since 10/10/2021
+**/
+
+#contact_us{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
