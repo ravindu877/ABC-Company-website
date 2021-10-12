@@ -1,0 +1,114 @@
+/**
+*@author Ravindu Lakshan <ravindulakshan877@gmail.com>
+*@since 10/12/2021
+**/
+
+@media only screen and (max-width: 450px){
+
+    .homeHeader{
+        height: 35%;
+    }
+
+    .homeBody{
+        height: 55%;
+    }
+
+    #pageHeader{
+        height: 3%;
+    }
+
+    .page_path{
+        font-size: 9px;
+    }
+
+    #page_content{
+        width: 96%;
+    }
+
+    .showcase-slider-container{
+        width: 96vw;
+    }
+
+    .navbar1{
+        flex-direction: column;
+    }
+
+    .navbar2{
+        height: auto;
+    }
+
+    .compant_name, .nav_items {
+        width: 100%;
+        height: 50%;
+    }
+
+    #compant_name_text{
+        font-size: 20px;
+    }
+
+    .navbar1 li a {
+        font-size: 10px;
+        padding: 0px 4px;
+    }
+
+    .nav2{
+        flex-direction: column;
+    }
+
+    .nav2_items, .dropdown{
+        border-bottom: 0.2px solid #F7F8F8;
+        text-align: center;
+        width: 100%;
+    }
+
+    .nav2_text, .dropbtn{
+        font-size: x-small;
+    }
+
+    #footer_item{
+        width: max-content;
+        justify-items: center;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .nav3_items_text{
+        font-size: x-small;
+    }
+
+    .nav3_items{
+        margin-right: 1vh;
+    }
+
+    .nav3_img{
+        margin-right: 1vh;
+    }
+
+    #company_overview_path{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #company_overview{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+    }
+
+    #company_overview_img {
+        width: 100%;
+        height: 100%;
+        margin-right: 0;
+        margin-top: 5px;
+    }
+
+    #company_overview_txt{
+        width: 100%;
+        height: 100%;
+    }
+}

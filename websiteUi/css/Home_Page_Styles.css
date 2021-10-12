@@ -1,5 +1,10 @@
 /**
 *@author Ravindu Lakshan <ravindulakshan877@gmail.com>
+*@since 10/12/2021
+**/
+
+/**
+*@author Ravindu Lakshan <ravindulakshan877@gmail.com>
 *@since 10/9/2021
 **/
 
@@ -70,9 +75,24 @@
 .nav_items{
     width: 60%;
     height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: #F7F8F8;
 }
 
+.nav_items_ul{
+    width: max-content;
+    height: max-content;
+    margin: 0;
+    padding: 0;
+}
+
+.div_navbar_items{
+    width: max-content;
+    height: max-content;
+}
 
 .navbar1 li.logo,
 .navbar1 li.navbar_items {
@@ -122,12 +142,22 @@
     cursor: pointer;
 }
 
+.dropbtn{
+    color: aliceblue;
+    font-size: small;
+    cursor: pointer;
+}
+
 .nav2{
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
 }
 .nav2_items{
-   margin-right: 15px;
+    margin-right: 15px;
     margin-left: 15px;
 }
 
@@ -141,7 +171,7 @@
     height: 100%;
     background-color: #1B2E3C;
     display: flex;
-    /*justify-content: center;*/
+    flex-direction: row;
     align-items: center;
 }
 
@@ -189,6 +219,7 @@
     width: 100%;
     height: 100%;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
