@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8782741-6fb5-4ba5-887e-ce5e115b305d" name="Default" comment="Update UI.">
+    <list default="true" id="c8782741-6fb5-4ba5-887e-ce5e115b305d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/websiteUi/Beds.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/websiteUi/css/Home_Page_Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/websiteUi/css/Home_Page_Styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/websiteUi/css/homePageStyles.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/websiteUi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/websiteUi/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/websiteUi/index1.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/websiteUi/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="418" column="25" selection-start-line="418" selection-start-column="8" selection-end-line="418" selection-end-column="25" />
+            <state relative-caret-position="323">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#aside#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#aside#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
@@ -45,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Home_Page_Styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Home_Page_Styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/websiteUi/css/Home_Page_Styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
+            <state relative-caret-position="595">
+              <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
             </state>
           </provider>
         </entry>
@@ -88,8 +84,8 @@
         <option value="$PROJECT_DIR$/websiteUi/css/Tab_view_styles.css" />
         <option value="$PROJECT_DIR$/websiteUi/index1.html" />
         <option value="$PROJECT_DIR$/websiteUi/css/Lap_top_view.css" />
-        <option value="$PROJECT_DIR$/websiteUi/index.html" />
         <option value="$PROJECT_DIR$/websiteUi/css/Home_Page_Styles.css" />
+        <option value="$PROJECT_DIR$/websiteUi/index.html" />
       </list>
     </option>
   </component>
@@ -229,7 +225,7 @@
       <workItem from="1634051913654" duration="256000" />
       <workItem from="1634102451606" duration="15099000" />
       <workItem from="1634179317401" duration="17493000" />
-      <workItem from="1634199117872" duration="1651000" />
+      <workItem from="1634199117872" duration="2112000" />
     </task>
     <task id="LOCAL-00001" summary=" Company overview, Contact details, Product categories and Product description pages added.">
       <created>1633966305927</created>
@@ -252,11 +248,18 @@
       <option name="project" value="LOCAL" />
       <updated>1634199245150</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update home page, Last commit.">
+      <created>1634201865220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634201865220</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140717000" />
+    <option name="totallyTimeSpent" value="141178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -330,7 +333,8 @@
     <MESSAGE value=" Company overview, Contact details, Product categories and Product description pages added." />
     <MESSAGE value="Update UI." />
     <MESSAGE value="Update UI with responsive." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update UI with responsive." />
+    <MESSAGE value="Update home page, Last commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update home page, Last commit." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/websiteUi/index.html">
@@ -613,10 +617,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/websiteUi/css/Home_Page_Styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/websiteUi/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="418" column="25" selection-start-line="418" selection-start-column="8" selection-end-line="418" selection-end-column="25" />
+        <state relative-caret-position="323">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#aside#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#aside#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
@@ -634,13 +645,6 @@
             <element signature="n#aside#4;n#div#1;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/websiteUi/css/Home_Page_Styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
         </state>
       </provider>
     </entry>
