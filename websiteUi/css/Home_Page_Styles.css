@@ -25,7 +25,6 @@
     z-index: 1;
     margin: 0;
     padding: 0;
-    box-shadow: 0px 0px 18px rgb(0 0 0 /40%);
 }
 
 .homeBody{
@@ -74,6 +73,10 @@
 
 /*=================================================================================*/
 
+
+#compant_name_text{
+    cursor: pointer;
+}
 
 .nav_items{
     width: 60%;
