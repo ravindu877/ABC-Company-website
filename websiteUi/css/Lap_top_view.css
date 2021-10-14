@@ -1,0 +1,18 @@
+/**
+*@author Ravindu Lakshan <ravindulakshan877@gmail.com>
+*@since 10/14/2021
+**/
+
+@media only screen and (max-width: 1050px) {
+
+
+    .contact_type_txt{
+        font-size: small;
+    }
+
+    .contact_info_txt{
+        font-size: small;
+    }
+
+
+}
